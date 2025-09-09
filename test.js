@@ -1,1 +1,1 @@
-console.log("This is a test file for matri-morphosis package");
+console.log("This is a test file in matri-morphosis");
