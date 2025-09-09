@@ -4,4 +4,4 @@ let session = "Git Basics";
 let topic="git session";
 let duration="2.5hrs";
 let user="geetha";
-console.log(session,topic,duration,user);
+console.log(session,topic,duration);
